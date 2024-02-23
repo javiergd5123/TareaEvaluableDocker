@@ -28,5 +28,25 @@
 
 4. Comprobar que el contenedor **Adminer** puede conectar con el contenedor **mysql** abriendo un navegador web y accediendo a la URL: http://localhost:8080
 
-   
+   ![image-20240223093006587](./Ejercicio%203.assets/image-20240223093006587.png)
+
+- Captura de pantalla y documento donde se vean los contenedores creados y en ejecución
+
+  ![image-20240223093150272](./Ejercicio%203.assets/image-20240223093150272.png)
+
+- Captura de pantalla y documento donde se vea el acceso a la BD a través de la interfaz web de Adminer
+
+  ![image-20240223101116211](./Ejercicio%203.assets/image-20240223101116211.png)
+
+- Captura de pantalla y documento donde se vea la creación de una BD con la interfaz web Adminer
+
+  ![image-20240223101155764](./Ejercicio%203.assets/image-20240223101155764.png)
+
+- Captura de pantalla y documento donde se entre a la consola del servidor web en modo texto y se compruebe que se ha creado la BD
+
+  ![image-20240223101335518](./Ejercicio%203.assets/image-20240223101335518.png)
+
+- Borrar los contenedores la red y los volúmenes utilizados
+
+  ![image-20240223101451714](./Ejercicio%203.assets/image-20240223101451714.png)
 
