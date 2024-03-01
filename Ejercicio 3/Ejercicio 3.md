@@ -30,6 +30,14 @@
 
    ![image-20240223093006587](./Ejercicio%203.assets/image-20240223093006587.png)
 
+**Servidor:** db
+
+**Usuario:** root
+
+**Contraseña:**1234
+
+**Base de datos:**
+
 - Captura de pantalla y documento donde se vean los contenedores creados y en ejecución
 
   ![image-20240223093150272](./Ejercicio%203.assets/image-20240223093150272.png)
