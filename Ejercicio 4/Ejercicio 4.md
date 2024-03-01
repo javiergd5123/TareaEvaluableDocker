@@ -6,6 +6,10 @@
 
 - Captura de pantalla y documento donde se vea la aplicación funcionando. Se valorará conseguir el efecto Greenrain .
 
+  ```bash
+  docker run --rm -it defnotgustavom/cmatrix cmatrix -C green 
+  ```
+
   ![image-20240226093037853](./Ejercicio%204.assets/image-20240226093037853.png)
 
 - Explicar brevemente cómo funciona esta aplicación.
