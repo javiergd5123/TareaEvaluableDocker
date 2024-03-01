@@ -72,7 +72,11 @@
 
 5. Captura de pantalla y documento donde se vea la bajada de la imagen - **por parte de otra persona del grupo** - y la creación de un contenedor
 
-   
+   ![image-20240301091005294](./Ejercicio%205.assets/image-20240301091005294.png)
+
+   **Cree yo otro usuario diferente desde el que descargue la imagen y cree el contenedor**.**Se puede apreciar que el mes que sale es diferente ya que lo hice en diferentes días.**
+
+   ![image-20240301091238750](./Ejercicio%205.assets/image-20240301091238750.png)
 
 6. Captura de pantalla y documento donde se ve el acceso al navegador con el sitio servido.
 
